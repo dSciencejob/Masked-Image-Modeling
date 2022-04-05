@@ -1,6 +1,6 @@
 # Intro
 
-Self-supervised learning has managed to out perform supervised pre-training according to [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377). Can asymmetric encoder-decoder architecture trained using masked random patches of the input image, manage to reconstruct the images, when the images vary widely in terms of size and have a high level of noise. Lets find out in [masked image modeling](/mim.ipynb)
+Self-supervised learning has managed to out perform supervised pre-training according to [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377). Can an asymmetric encoder-decoder architecture trained using masked random patches of images, manage to reconstruct them. Lets find out in [masked image modeling](/mim.ipynb), how the model performs when the images vary widely in terms of size and have a high level of noise.
 
 # References
 
