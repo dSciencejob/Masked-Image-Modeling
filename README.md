@@ -8,4 +8,4 @@ https://arxiv.org/abs/2111.06377
 
 https://keras.io/examples/vision/masked_image_modeling/
 
-https://happywhale.com
+https://www.happywhale.com
